@@ -1,3 +1,7 @@
+<p align="center">
+  <img width="650" height="63" src="https://raw.githubusercontent.com/SteamWo1f/The-Divine-Path/0a7d3a0895f2080dfaa49e3d42a8f373666487b9/github/banner.png">
+</p>
+
 The Divine Path - A (Joke) Cult Homepage for Noita
 ===========================================
 
