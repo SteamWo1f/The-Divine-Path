@@ -14,8 +14,8 @@ Credits
 
 -   [Mobirise Website Builder](https://mobirise.com/)
 -   [Bootstrap](https://getbootstrap.com/)
--   [Google Fonts](https://fonts.google.com/)
--   [Font Awesome](https://fontawesome.com/)
+-   [Open Dyslexic Font](https://opendyslexic.org/)
+-   [Agathodaimon Font](https://www.fontspace.com/agathodaimon-font-f55071)
 -   [Noita](https://noitagame.com/)
 
 Sources
