@@ -5,7 +5,9 @@
 The Divine Path - A (Joke) Cult Homepage for Noita
 ===========================================
 
-### You can check out the site [here](https://steamwo1f.github.io/The-Divine-Path/)
+ ### You can check out the site [here](https://steamwo1f.github.io/The-Divine-Path/)
+
+----
 
 This HTML site was made as a joke during some free time at school, and is designed to look like a homepage for a cult that exists in the pixel game Noita.
 
